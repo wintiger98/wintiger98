@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!&animation=fadeIn)
-### Hi there 👋
+### Hi there 👋 ❄️ 🐯
+
 <br>
+
 <div align="center">
   
   :computer: I have Used
