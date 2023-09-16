@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wintiger98&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wintiger98&show_icons=true&theme=vue?count_private=true)
 </div>
