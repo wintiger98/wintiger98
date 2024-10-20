@@ -23,8 +23,6 @@ Here are some ideas to get you started:
   :computer: **Tech Stack**
 </div>
 
-<br>
-
 <div align="center">
 
 #### 🖥️ **Backend**
