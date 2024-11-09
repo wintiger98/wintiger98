@@ -46,7 +46,6 @@
 </div>
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wintiger98&show_icons=true&theme=transparent)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wintiger98&theme=onedark)
 
 </div>
