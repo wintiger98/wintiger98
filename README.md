@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%World!&animation=fadeIn)
-### Hi there 👋 ❄️ 🐯
-
-<br>
-
 <div align="center">
   
   ### :computer: **Tech Stack**
@@ -51,11 +47,16 @@
 </div>
 
 ---
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/wintiger98"/>
+  </a>
+</div>
 
 <div align="center">
   
 ### 📫 **How to reach me**
-Feel free to reach out via [Email](mailto:inyub98@google.com)!
+Feel free to reach out via [Email](mailto:inyub98@gmail.com)!
 
 </div>
 
